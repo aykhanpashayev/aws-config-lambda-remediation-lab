@@ -125,7 +125,7 @@ Mission accomplished: drift detected & healed automatically.
 
 ---
 
-## 💡  What Recruiters Should Notice
+## 💡  What You Should Notice
 
 1. **Security-as-Code** – Guard-rails defined by code (Lambda) not run-books.  
 2. **Event-Driven Ops** – Leveraging native AWS services instead of cron or polling.  
@@ -154,3 +154,4 @@ Mission accomplished: drift detected & healed automatically.
 > © 2025 Aykhan Pashayev – Screenshots & diagrams used under AWS Educational Fair Use.
 >  
 > _Always be shipping – more projects at_ **github.com/aykhanpashayev**
+> > _My LinkedIn – **https://linkedin.com/in/aykhanpashayev**
