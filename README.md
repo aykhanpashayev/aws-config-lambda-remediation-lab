@@ -153,4 +153,4 @@ Mission accomplished: drift detected & healed automatically.
 
 > © 2025 Aykhan Pashayev – Screenshots & diagrams used under AWS Educational Fair Use.
 >  
->  _My LinkedIn – **https://linkedin.com/in/aykhanpashayev**
+> LinkedIn – **https://linkedin.com/in/aykhanpashayev**
