@@ -108,7 +108,7 @@ Seconds after the rule evaluates, Lambda revokes the rogue ports:
 
 | Evidence | Description |
 |----------|-------------|
-| ![Clean rules](screenshots/Cleaned%20up%20inbound%20rules%20%28only%20HTTP%20%2B%20HTTPS%20for%20IPv4%20IPv6%29.png) | SG ingress list shows **only 80/443** (v4 + v6) |
+| ![Clean rules](screenshots/Cleaned-up%20inbound%20rules%20%28only%20HTTP%20%2B%20HTTPS%20for%20IPv4%20IPv6%29.png) | SG ingress list shows **only 80/443** (v4 + v6) |
 | ![CW Logs](screenshots/CloudWatch%20log%20entry%20showing%20%E2%80%9Crevoking%20for%20port%20465%20and%20993%E2%80%9D.png) | Lambda log lines: `revoking for sg-… port 993`, `port 465` |
 
 Mission accomplished: drift detected & healed automatically.
