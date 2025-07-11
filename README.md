@@ -52,10 +52,6 @@ aws-config-lambda-remediation-lab/
 │ ├─ Cleaned up inbound rules (only HTTP + HTTPS for IPv4 IPv6).png
 │ └─ CloudWatch log entry showing “revoking for port 465 and 993”.png
 └─ README.md
-
-yaml
-Copy
-Edit
 ```
 ---
 
@@ -76,7 +72,7 @@ Edit
 ---
 
 ### 2️⃣  AWS Config – Recorder Setup  
-![Config dashboard](screenshots/Confirmation%20of%20AWS%20Config%20dashboard.png)
+![Config dashboard](screenshots/Checkpoint%20Screenshot%20Confirmation%20of%20AWS%20Config%20dashboard.png)
 
 * **Recording strategy:** _Specific type_ → `AWS::EC2::SecurityGroup`  
 * Delivery channel: S3 bucket (7-year retention) + default SNS disabled  
